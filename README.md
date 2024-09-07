@@ -1,22 +1,19 @@
 # SimpleLoginForm
+
 This repository contains a simple login form application built with Django for the backend and ReactJS for the frontend. It demonstrates how to create and manage a basic login system with user authentication.
 
 ## Features
-User registration and login functionality
 
-Backend built with Django
-
-Frontend built with ReactJS
-
-Simple and clean design
+- User registration and login functionality
+- Backend built with Django
+- Frontend built with ReactJS
+- Simple and clean design
 
 ## Technologies Used
 
-Backend: Django
-
-Frontend: ReactJS
-
-Database: SQLite (default with Django)
+- Backend: Django
+- Frontend: ReactJS
+- Database: SQLite (default with Django)
 
 ## API Endpoints
 POST /api/register/ - Register a new user
